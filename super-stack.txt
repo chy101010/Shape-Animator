@@ -1,0 +1,13 @@
+canvas 200 70 360 360
+shape R2 ellipse 2
+shape R rectangle 0
+shape R3 ellipse 3
+shape R1 ellipse 1
+shape R4 ellipse 4
+shape R44 ellipse 4
+motion R  1  250 200 50 100 255 0 0        10  250 200 50 100 255 0 0
+motion R1 1  250 200 50 100 0 255  0        10  250 200 50 100 0 255 0
+motion R2 1  250 200 40 100 0 0    255      10  250 200 40 100 0 0   255
+motion R3 1  250 200 40 100 255 0  255      10  250 200 40 100 255 0 255
+motion R4 1  250 200 30 120 0 255  255      10  250 200 30 120 0 255 255
+motion R44 1  250 200 20 120 0 0  0      10  250 200 20 120 0 0 0
